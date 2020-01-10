@@ -37,8 +37,22 @@ pip3 install asyncssh
 ```
 * [asyncssh] - Full support for SSHv2, SFTP, and SCP client and server functions
 
-<link rel="stylesheet" type="text/css" href="//code.ionicframework.com/ionicons/2.0.1/css/ionicons.min.css" />
-Made with <i class="icon ion-heart"></i> in Switzerland
+## Author
+
+👤 **Văn Tài**
+
+- Twitter: [@mrluaf](https://twitter.com/mrluaf)
+- Facebook: [@LuaAcoustic](https://www.facebook.com/LuaAcoustic)
+- Github: [@mrluaf](https://github.com/mrluaf)
+- Gitlab: [@mrluaf](https://gitlab.com/mrluaf)
+
+## 📝 License
+
+Copyright © 2019 [Văn Tài](https://www.facebook.com/LuaAcoustic).<br />
+
+---
+
+_This README was generated with ❤️ by [Văn Tài](https://www.facebook.com/LuaAcoustic)_
 
 [//]: # (These are reference links used in the body of this note and get stripped out when the markdown processor does its job. There is no need to format nicely because it shouldn't be seen.)
 
