@@ -25,7 +25,7 @@ class OpenSSH:
         # self.conn = conn
         listener = await conn.forward_socks('127.0.0.1', self.port)
         # self.ee.emit('msg', conn)
-        print('Listening on port %s...' % listener.get_port())
+        # print('Listening on port %s...' % listener.get_port())
         self.ssh_status = True
         # time.sleep(5)
         # print(i, 'Listening on port %s...' % listener.get_port())
