@@ -52,7 +52,7 @@ Copyright © 2019 [Văn Tài](https://www.facebook.com/LuaAcoustic).<br />
 
 ---
 
-_This README was generated with ❤️ by [Văn Tài](https://www.facebook.com/LuaAcoustic)_
+_Made with ❤️ by [Văn Tài](https://www.facebook.com/LuaAcoustic)_
 
 [//]: # (These are reference links used in the body of this note and get stripped out when the markdown processor does its job. There is no need to format nicely because it shouldn't be seen.)
 
